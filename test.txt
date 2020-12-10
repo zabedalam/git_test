@@ -1,3 +1,5 @@
 I am React Developer
 
 I would like to see myself world class React Developer
+
+I would like to learn industry standard coding 
